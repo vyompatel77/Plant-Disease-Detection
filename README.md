@@ -1,4 +1,4 @@
-Abstract- Potato is one of the most widely grown crop around
+ **Potato is one of the most widely grown crop around
 the world and is a part of the staple diet for almost every
 household. Cultivation of such a crop requires proper care,
 especially when diseases are considered. The traditional
@@ -27,3 +27,4 @@ while the two stage model showed 99.9% in stage one where
 we separate only the healthy and diseased leaves and stage
 two showed an average accuracy of 99.15% Meanwhile our
 SVM model only showed an average accuracy of 98.06%.
+**
